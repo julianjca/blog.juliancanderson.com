@@ -39,14 +39,14 @@ class Layout extends React.Component {
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
-            color: `#fff !important`
+            color: `#F88379 !important`
           }}
         >
           <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `#fff !important`
+              color: `#F88379 !important`
             }}
             to={`/`}
           >

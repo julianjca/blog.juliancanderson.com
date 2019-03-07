@@ -21,17 +21,22 @@ class Footer extends React.Component {
         <a
           href="https://mobile.twitter.com/juliancanderson"
           target="_blank"
+          style={{ color: '#F88379'}}
           rel="noopener noreferrer">
           twitter
         </a>{' '}
         &bull;{' '}
-        <a href="https://github.com/julianjca" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/julianjca"
+        target="_blank"
+        style={{ color: '#F88379'}}
+        rel="noopener noreferrer">
           github
         </a>{' '}
         &bull;{' '}
         <a
           href="https://instagram.com/juliancanderson"
           target="_blank"
+          style={{ color: '#F88379'}}
           rel="noopener noreferrer">
           instagram
         </a>{' '}
@@ -39,6 +44,7 @@ class Footer extends React.Component {
         <a
           href="https://itunes.apple.com/us/podcast/why-i-started/id1450092249?mt=2&uo=4"
           target="_blank"
+          style={{ color: '#F88379'}}
           rel="noopener noreferrer">
           podcast
         </a>
