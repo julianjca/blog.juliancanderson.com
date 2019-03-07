@@ -38,7 +38,13 @@ function Bio() {
               }}
             />
             <p>
-              Personal blog by <strong>{author}</strong>. <br/>
+              Personal blog by
+              <a href="https://instagram.com/juliancanderson"
+                target="_blank"
+                >
+              <span style={{ color : `#F88379`}}><strong> {author}</strong></span>
+              </a>.
+              <br/>
               Building something from nothing. <br/>
               {` `}
             </p>

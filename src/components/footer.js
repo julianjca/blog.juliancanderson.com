@@ -8,7 +8,8 @@ class Footer extends React.Component {
       <footer
         style={{
         marginTop: rhythm(2.5),
-        paddingTop: rhythm(1)
+        paddingTop: rhythm(1),
+        color: `#F88379`
       }}>
         <div style={{
           float: 'right'
@@ -29,7 +30,7 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://instagram.com/julianjca"
+          href="https://instagram.com/juliancanderson"
           target="_blank"
           rel="noopener noreferrer">
           instagram

@@ -17,7 +17,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
-            fontSize: '3rem'
+            fontSize: '2.5rem'
           }}
         >
           <Link
@@ -60,6 +60,8 @@ class Layout extends React.Component {
           marginRight: `auto`,
           maxWidth: rhythm(24),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          backgroundColor: `#4C5D70`,
+          color: `#fff`
         }}
       >
         <header>{header}</header>
