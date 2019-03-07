@@ -6,3 +6,11 @@ body {
 blockquote {
   color: #fff !important;
 }
+
+#header-title {
+  color: #fff;
+}
+
+#header-inside-post {
+  color: #F88379 !important
+}

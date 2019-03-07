@@ -27,6 +27,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `#fff !important`
             }}
+            id="header-title"
             to={`/`}
           >
             {title}
@@ -48,6 +49,7 @@ class Layout extends React.Component {
               textDecoration: `none`,
               color: `#F88379 !important`
             }}
+            id="header-inside-post"
             to={`/`}
           >
             {title}
