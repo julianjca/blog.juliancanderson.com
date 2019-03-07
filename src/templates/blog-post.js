@@ -29,7 +29,7 @@ class BlogPostTemplate extends React.Component {
         >
           {post.frontmatter.date}
         </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div id="post-container" dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -45,6 +45,7 @@ class BlogPostTemplate extends React.Component {
             listStyle: `none`,
             padding: 0,
           }}
+          id="pagination"
         >
           <li>
             {previous && (

@@ -5,6 +5,7 @@ body {
 
 blockquote {
   color: #fff !important;
+  border-left: 0.32813rem solid #fff;
 }
 
 #header-title {
@@ -12,5 +13,10 @@ blockquote {
 }
 
 #header-inside-post {
+  color: #F88379 !important
+}
+
+#post-container a,
+#pagination a {
   color: #F88379 !important
 }
