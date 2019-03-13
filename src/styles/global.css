@@ -5,7 +5,7 @@ body {
 
 blockquote {
   color: #fff !important;
-  border-left: 0.32813rem solid #fff;
+  border-left: 0.32813rem solid #fff !important;
 }
 
 #header-title {
