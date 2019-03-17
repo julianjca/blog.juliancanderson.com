@@ -1,5 +1,5 @@
 ---
-title: 30 Days Social Media Detox
+title: 30-Day Social Media Detox
 date: "2019-03-17T22:40:32.169Z"
 description: Is Social Media Harmful?
 ---
