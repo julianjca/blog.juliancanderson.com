@@ -1,10 +1,9 @@
 ---
 title: 30 Days Social Media Detox
 date: "2019-03-17T22:40:32.169Z"
-description: Social Media is a distraction.
+description: Is Social Media Harmful?
 ---
 
-# 30 Days Social Media Detox
 I am really active on Instagram. I put myself out there around 1 year ago. I think Instagram is my favorite Social Media because of its features. I spend so much time on it each day without concern before. I love commenting on pictures or stories. I also love to share my work there because I do enjoy photography.
 <br>
 In the middle of last year I decided to become a minimalist. I get rid some stuffs and change my mindset around purchasing. Then I realize that being a minimalist is not about owning less thing but also choosing the things that matter most in life. It is about being mindful on the things that we do. I never apply the minimalist principle to my digital life. I still use social media mindlessly until I track my time on social media.
