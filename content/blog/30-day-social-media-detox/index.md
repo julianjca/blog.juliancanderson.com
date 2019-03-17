@@ -26,3 +26,5 @@ I am happier. <br>
 I am more productive. <br>
 I suggest that you try the detox if Social Media is keeping you away from what matters the most in life. If you feel unhappy because you compare yourself to others. It can be frustrating to see people out there having their best time of their life while your life still sucks. <br>
 Try it for a month or maybe a week. You will feel better.
+
+[**Link To Matt's Video**](https://www.youtube.com/watch?v=AXInjuTkjoM&t=443s)
