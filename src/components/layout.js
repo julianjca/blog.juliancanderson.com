@@ -40,14 +40,14 @@ class Layout extends React.Component {
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
-            color: `#F88379 !important`
+            color: `#F89F48 !important`
           }}
         >
           <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `#F88379 !important`
+              color: `#F89F48 !important`
             }}
             id="header-inside-post"
             to={`/`}
