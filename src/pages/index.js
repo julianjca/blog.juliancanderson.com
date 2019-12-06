@@ -29,7 +29,7 @@ class BlogIndex extends React.Component {
                   fontFamily: `Montserrat`
                 }}
               >
-                <Link style={{ boxShadow: `none`, color: `#F89F48` }} to={node.fields.slug}>
+                <Link style={{ boxShadow: `none`, color: `#0C0C0C` }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>

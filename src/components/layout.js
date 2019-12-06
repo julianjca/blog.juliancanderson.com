@@ -18,14 +18,14 @@ class Layout extends React.Component {
             marginBottom: rhythm(1.5),
             marginTop: 0,
             fontSize: '2.5rem',
-            color: `#fff !important`
+            color: `#00000090 !important`
           }}
         >
           <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `#fff !important`
+              color: `#00000090 !important`
             }}
             id="header-title"
             to={`/`}
@@ -40,14 +40,14 @@ class Layout extends React.Component {
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
-            color: `#F89F48 !important`
+            color: `#0C0C0C !important`
           }}
         >
           <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `#F89F48 !important`
+              color: `#0C0C0C !important`
             }}
             id="header-inside-post"
             to={`/`}
@@ -64,8 +64,8 @@ class Layout extends React.Component {
           marginRight: `auto`,
           maxWidth: rhythm(24),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-          backgroundColor: `#36454F`,
-          color: `#fff`
+          backgroundColor: `white`,
+          color: `#00000090`
         }}
       >
         <header>{header}</header>

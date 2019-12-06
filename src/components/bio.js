@@ -41,9 +41,9 @@ function Bio() {
               Personal blog by
               <a href="https://instagram.com/juliancanderson"
                 target="_blank"
-                style={{ color : `#F89F48`}}
+                style={{ color : `#0C0C0C`}}
                 >
-              <span style={{ color : `#F89F48`}}><strong> {author}</strong></span>
+              <span style={{ color : `#0C0C0C`}}><strong> {author}</strong></span>
               </a>.
               <br/>
               Building something from nothing. <br/>

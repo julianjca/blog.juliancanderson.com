@@ -9,7 +9,7 @@ class Footer extends React.Component {
         style={{
         marginTop: rhythm(2.5),
         paddingTop: rhythm(1),
-        color: `#F89F48`
+        color: `#0C0C0C`
       }}>
         <div style={{
           float: 'right'
@@ -21,14 +21,14 @@ class Footer extends React.Component {
         <a
           href="https://mobile.twitter.com/juliancanderson"
           target="_blank"
-          style={{ color: '#F89F48'}}
+          style={{ color: '#0C0C0C'}}
           rel="noopener noreferrer">
           twitter
         </a>{' '}
         &bull;{' '}
         <a href="https://github.com/julianjca"
         target="_blank"
-        style={{ color: '#F89F48'}}
+        style={{ color: '#0C0C0C'}}
         rel="noopener noreferrer">
           github
         </a>{' '}
@@ -36,7 +36,7 @@ class Footer extends React.Component {
         <a
           href="https://instagram.com/juliancanderson"
           target="_blank"
-          style={{ color: '#F89F48'}}
+          style={{ color: '#0C0C0C'}}
           rel="noopener noreferrer">
           instagram
         </a>{' '}
@@ -44,7 +44,7 @@ class Footer extends React.Component {
         <a
           href="https://itunes.apple.com/us/podcast/why-i-started/id1450092249?mt=2&uo=4"
           target="_blank"
-          style={{ color: '#F89F48'}}
+          style={{ color: '#0C0C0C'}}
           rel="noopener noreferrer">
           podcast
         </a>

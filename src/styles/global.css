@@ -1,22 +1,26 @@
 html,
 body {
-  background-color: #36454F;
+  background-color: white;
 }
 
 blockquote {
-  color: #fff !important;
-  border-left: 0.32813rem solid #fff !important;
+  color: #00000090 !important;
+  border-left: 0.32813rem solid #00000090 !important;
 }
 
 #header-title {
-  color: #fff;
+  color: #0C0C0C;
 }
 
 #header-inside-post {
-  color: #F89F48 !important
+  color: #0C0C0C !important
 }
 
 #post-container a,
 #pagination a {
-  color: #F89F48 !important
+  color: #0C0C0C !important
+}
+
+h2, h3, h4 {
+  color: #0C0C0C !important
 }
