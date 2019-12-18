@@ -17,7 +17,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
-            fontSize: '2.5rem',
+            fontSize: '2rem',
             color: `#00000090 !important`
           }}
         >
