@@ -40,14 +40,14 @@ class Footer extends React.Component {
           rel="noopener noreferrer">
           instagram
         </a>{' '}
-        &bull;{' '}
+        {/* &bull;{' '}
         <a
           href="https://itunes.apple.com/us/podcast/why-i-started/id1450092249?mt=2&uo=4"
           target="_blank"
           style={{ color: '#0C0C0C'}}
           rel="noopener noreferrer">
           podcast
-        </a>
+        </a> */}
       </footer>
     );
   }
