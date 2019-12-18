@@ -1,5 +1,5 @@
 ---
-title: What I have Learned from Working Remotely
+title: My Thoughts on Remote Working
 date: "2019-12-18T19:15:00.284Z"
 description: It is the best thing that have ever happened to me.
 ---
