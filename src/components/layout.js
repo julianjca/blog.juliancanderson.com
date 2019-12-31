@@ -70,6 +70,16 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
+        <h3 style={{ margin: '20px auto 0', width: '100%', textAlign: 'center'}}>Subscribe to my Newsletter</h3>
+        <div style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          maxWidth: '90%',
+          margin: '20px auto 0',
+        }}>
+          <iframe style={{ width: '100%' }} width="480" height="320" src="https://julianchristiananderson.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+        </div>
         <Footer />
       </div>
     )

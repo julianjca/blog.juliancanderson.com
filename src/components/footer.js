@@ -7,7 +7,7 @@ class Footer extends React.Component {
     return (
       <footer
         style={{
-        marginTop: rhythm(2.5),
+        marginTop: rhythm(1),
         paddingTop: rhythm(1),
         color: `#0C0C0C`
       }}>

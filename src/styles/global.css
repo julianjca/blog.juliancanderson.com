@@ -18,9 +18,10 @@ blockquote {
 
 #post-container a,
 #pagination a {
-  color: #0C0C0C !important
+  color: #0C0C0C !important;
 }
 
 h2, h3, h4 {
-  color: #0C0C0C !important
+  color: #0C0C0C !important;
+  margin-top: 2rem;
 }
